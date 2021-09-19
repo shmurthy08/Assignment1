@@ -36,4 +36,5 @@ int main(int argc, char** argv){
     }
     //delete all dynamically allocated memory
     delete f;
+    return 0;
 }
